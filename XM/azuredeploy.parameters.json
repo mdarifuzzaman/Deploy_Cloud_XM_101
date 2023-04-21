@@ -31,9 +31,6 @@
     },
     "authCertificatePassword":{
       "value": ""
-    },
-    "allowInvalidClientCertificates": {
-      "value": true
     }
   }
 }
