@@ -31,6 +31,9 @@
     },
     "authCertificatePassword":{
       "value": "tbinfo"
+    },
+    "solrConnectionString":{
+      "value": "https://localhost:8983/solr"
     }
   }
 }
