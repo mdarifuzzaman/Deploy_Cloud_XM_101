@@ -12,25 +12,25 @@
       "value": "arifsa!@#123"
     },
     "siMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://anzprofessionalservices.blob.core.windows.net/arif/Sitecore.IdentityServer.7.0.326.scwdp.zip?sp=r&st=2023-04-21T05:27:41Z&se=2023-04-29T13:27:41Z&spr=https&sv=2021-12-02&sr=b&sig=JQKAGil5ibki%2FzghBn0ML7lQdxUA2gjGB4eXChy3B0k%3D"
     },
     "cmMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://anzprofessionalservices.blob.core.windows.net/arif/Sitecore%2010.1.0%20rev.%20005207%20(XM)%20(Cloud)_cm.scwdp.zip?sp=r&st=2023-04-21T04:28:07Z&se=2023-04-29T12:28:07Z&spr=https&sv=2021-12-02&sr=b&sig=iCX0Y9J1Hr3RncCHSyicLlEFw5CQBVvnnhyil%2Bv7AxU%3D"
     },
     "cdMsDeployPackageUrl": {
       "value": "https://anzprofessionalservices.blob.core.windows.net/arif/Sitecore%2010.1.0%20rev.%20005207%20(XM)%20(Cloud)_cd.scwdp.zip?sp=r&st=2023-04-21T04:27:26Z&se=2023-04-29T12:27:26Z&spr=https&sv=2021-12-02&sr=b&sig=6po5cbtPYCv5nAOe66mNLbZH52ApbXm0qfX1EKxxhRs%3D"
     },
     "sitecoreAdminPassword": {
-      "value": "b"
+      "value": "arifsa!@#123"
     },
     "licenseXml": {
       "value": ""
     },
     "authCertificateBlob":{
-      "value": ""
+      "value": "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"
     },
     "authCertificatePassword":{
-      "value": ""
+      "value": "tbinfo"
     }
   }
 }
